@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\rodio\onedrive\рабочий стол\пп3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(148): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\rodio\onedrive\рабочий стол\пп3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\Users\rodio\OneDrive\Рабочий стол\пп3\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\rodio\OneDrive\Рабочий стол\пп3\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
